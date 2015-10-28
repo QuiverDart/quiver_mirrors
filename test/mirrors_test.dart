@@ -17,7 +17,7 @@ library quiver.mirrors_test;
 import 'dart:collection';
 import 'dart:mirrors';
 
-import 'package:quiver/mirrors.dart';
+import 'package:quiver_mirrors/mirrors.dart';
 import 'package:test/test.dart';
 
 main() {
