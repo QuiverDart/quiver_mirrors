@@ -8,7 +8,7 @@ Utilities for working with mirrors.
 
 [API Docs](http://www.dartdocs.org/documentation/quiver_mirrors/latest) are available.
 
-## [quiver.mirrors][]
+## Documentation
 
 `getTypeName` returns the name of a Type instance.
 
