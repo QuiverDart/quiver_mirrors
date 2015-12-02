@@ -1,14 +1,14 @@
 Quiver Mirrors
-======
+==============
 
 Utilities for working with mirrors.
 
 [![Build Status](https://travis-ci.org/QuiverDart/quiver_mirrors.svg?branch=master)](https://travis-ci.org/QuiverDart/quiver_mirrors)
 [![Coverage Status](https://img.shields.io/coveralls/QuiverDart/quiver_mirrors.svg)](https://coveralls.io/r/QuiverDart/quiver_mirrors)
 
-[API Docs](http://www.dartdocs.org/documentation/quiver_mirrors/latest) are available.
-
 ## Documentation
+
+[API Docs](http://www.dartdocs.org/documentation/quiver_mirrors/latest)
 
 `getTypeName` returns the name of a Type instance.
 
